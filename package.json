@@ -1,0 +1,16 @@
+{
+  "name": "stock-ticker-part-2",
+  "version": "1.0.0",
+  "description": "Assignment 14 Part 2 stock ticker search app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
